@@ -1,5 +1,2 @@
-
-
 a = "qwertyuio"
 r = "qwertyuio"
-
